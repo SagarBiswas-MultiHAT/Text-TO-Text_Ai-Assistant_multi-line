@@ -11,8 +11,8 @@ Sagar is a virtual assistant designed for aspiring cybersecurity professionals a
 ## Installation  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/SagarBiswas-MultiHAT/text-to-text_Ai-Assistant.git
-   cd text-to-text_Ai-Assistant 
+   git clone https://github.com/SagarBiswas-MultiHAT/Text-TO-Text_Ai-Assistant_multi-line.git
+   cd Text-TO-Text_Ai-Assistant_multi-line
    ```  
 
 2. Install the required Python packages:  
