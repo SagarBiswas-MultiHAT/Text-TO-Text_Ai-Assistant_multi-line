@@ -2,8 +2,6 @@
 
 Sagar is a virtual assistant designed for aspiring cybersecurity professionals and CSE students. It processes user commands to open websites, play music, or provide AI-generated responses, offering a hands-on experience with automation and AI technologies.  
 
-Video tutorial: https://www.facebook.com/share/v/16BPekuBGS/
-
 ## Features  
 - **Website Navigation**: Quickly open popular websites like Google, YouTube, GitHub, and more.  
 - **Music Playback**: Play songs using predefined links from a custom music library.  
@@ -13,8 +11,8 @@ Video tutorial: https://www.facebook.com/share/v/16BPekuBGS/
 ## Installation  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/your-username/your-repo.git  
-   cd your-repo  
+   git clone https://github.com/SagarBiswas-MultiHAT/text-to-text_Ai-Assistant.git
+   cd text-to-text_Ai-Assistant 
    ```  
 
 2. Install the required Python packages:  
